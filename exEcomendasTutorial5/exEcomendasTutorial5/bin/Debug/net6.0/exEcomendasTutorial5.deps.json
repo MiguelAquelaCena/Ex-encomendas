@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "exEcomendasTutorial5/1.0.0": {
+        "runtime": {
+          "exEcomendasTutorial5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exEcomendasTutorial5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
